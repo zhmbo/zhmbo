@@ -8,7 +8,7 @@ for ((I=1;i<=$randomVal;i++))
 do 
 {
 echo $i
-echo 'i am jumbo.\n' >> readme.md
+echo 'i am jumbo.' >> readme.md
 git add .
 git commit -m'i am jumbo.'
 }
