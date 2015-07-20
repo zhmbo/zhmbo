@@ -10,6 +10,6 @@ do
 echo $i
 echo 'i am jumbo.' >> readme.md
 git add .
-git commit -m'i am jumbo.'
+git commit -m'@itzhangbao'
 }
 done
