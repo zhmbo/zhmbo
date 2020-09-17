@@ -11,13 +11,13 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
 
+&nbsp;
 
 > 十年编程两茫茫，工期短，需求长。千行代码，Bug何处藏。纵使上线又如何，新版本，继续忙。黑白颠倒没商量，睡地铺，吃食堂。夜半梦醒，无人在身旁。最怕灯火阑珊时，手机响，心里慌。
 
 <!-- Any image aligned to the right. Beware the width -->
 <img align='right'  alt="Github"  src='https://cdn.jsdelivr.net/gh/itzhangbao/itzhangbao.github.io@blog-images/picgo/Monkey_Kid_Coding.gif' >
 
-&nbsp;
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
@@ -32,9 +32,6 @@ You can use the website to generate badges: https://shields.io/
 
 **Other**
 
-- 
-- 
-- 
 - 
 - 
 -
