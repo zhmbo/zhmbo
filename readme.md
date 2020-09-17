@@ -1,6 +1,6 @@
 <!-- Your title -->
 
-## Hi, I'm Murillo Comino, a Developer 🚀 from Brazil.
+## Hi, I'm Jumbo, a Developer 🚀 from 深圳.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -14,46 +14,33 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
+> 十年编程两茫茫，工期短，需求长。千行代码，Bug何处藏。纵使上线又如何，新版本，继续忙。黑白颠倒没商量，睡地铺，吃食堂。夜半梦醒，无人在身旁。最怕灯火阑珊时，手机响，心里慌。
+
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img align='right'  alt="Github"  src='/Users/jumbo/Pictures/Monkey_Kid_Coding.gif' >
+<img align='right'  alt="Github"  src='https://cdn.jsdelivr.net/gh/itzhangbao/itzhangbao.github.io@blog-images/picgo/Monkey_Kid_Coding.gif' />
 
-- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
-- 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
-- 📫 How to reach me: murillo_comino@hotmail.com;
+- 👨🏽‍💻 I’m currently working on [Blogs](https://github.com/itzhangbao/blogs);
+- 🌱 I’m currently learning website and server; 
+- 👯 I’m looking to collaborate on Look at the following👇;
+- 🤔 I’m looking for the help of money making techniques💰 ;
+- 💬 Ask me about anything to [issues](https://github.com/itzhangbao/itzhangbao/issues), I am happy to help;
+- ⚡️ Fun-Fact: my major is machine manufacture and automation;
+- 📫 How to reach me:[itzhangbao@163.com](mailto:itzhangbao@163.com) ;
 
 <div>
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=itzhangbao&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzhangbao&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 </div>
-
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
+
 <p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/itzhagnbao/itzhangbao.svg" />
 </p>
 
 
-
-<!--
-**itzhangbao/itzhangbao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
