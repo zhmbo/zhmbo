@@ -32,10 +32,13 @@ You can use the website to generate badges: https://shields.io/
 - 📫 How to reach me:[itzhangbao@163.com](mailto:itzhangbao@163.com) ;
 </p>
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+**other**
+- 
+- 
+- 
+- 
+- 
+-
 
 <!-- Your Readme Stats
 site: https://github.com/anuraghazra/github-readme-stats
