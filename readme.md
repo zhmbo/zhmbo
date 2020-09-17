@@ -45,9 +45,10 @@ You can use the website to generate badges: https://shields.io/
 site: https://github.com/anuraghazra/github-readme-stats
 You can use the repository to generate stats:
 -->
-
+<p>
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=itzhangbao&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzhangbao&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+</p>
 
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
