@@ -4,7 +4,14 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
+**Languages and Tools:**
 
+![Xcode](https://img.shields.io/badge/-Xcode-0070c9?style=flat&logo=Xcode&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-0078d7?style=flat&logo=Visual Studio Code&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-fa7348?style=flat&logo=Swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-fa7348?style=flatt&logo=apple&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f05032?style=flatt&logo=JavaScript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f05032?style=flatt&logo=git&logoColor=white)
 
 &nbsp;
 
