@@ -45,6 +45,7 @@ You can use the website to generate badges: https://shields.io/
   <a href="https://juejin.im/user/1591748568823677">
     <code><img alt="掘金" width="10%" src="https://s3.pstatp.com/toutiao/xitu_juejin_web/img/logo.a7995ad.svg"></code>
   </a>
+  <br />
   <!--知乎-->
   <a href="https://www.zhihu.com/people/itzhangbao">
     <code><img alt="知乎" width="10%" src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2277366748,2909418798&fm=26&gp=0.jpg"></code>
@@ -53,7 +54,6 @@ You can use the website to generate badges: https://shields.io/
   <a href="https://www.yuque.com/itzhangbao">
     <code><img alt="语雀" width="10%" src="https://gw.alipayobjects.com/mdn/prod_resou/afts/img/A*OwZWQ68zSTMAAAAAAAAAAABkARQnAQ"></code>
   </a>
-  <br />
   <!--GitHub-->
   <a href="https://github.com/itzhangbao">
     <code><img alt="GitHub" width="10%" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png"></code>
@@ -62,6 +62,7 @@ You can use the website to generate badges: https://shields.io/
   <a href="https://medium.com/@itzhangbao">
     <code><img alt="Medium" width="10%" src="http://imgs.logonews.cn/uploads/2017/08/2017082412003535.png!logonews"></code>
   </a>
+  <br />
   <!--Facebook-->
   <a href="https://www.facebook.com/itzhangbao">
     <code><img alt="Facebook" width="10%" src="Facebook"></code>
@@ -70,7 +71,6 @@ You can use the website to generate badges: https://shields.io/
   <a href="https://codepen.io/itzhangbao">
     <code><img alt="Codepen" width="10%" src="Codepen"></code>
   </a>
-  <br />
   <!--Twitter-->
   <a href="https://twitter.com/itzhangbao">
     <code><img alt="Twitter" width="10%" src="Twitter"></code>
