@@ -4,6 +4,7 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
+
 ![Xcode](https://img.shields.io/badge/-Xcode-0070c9?style=flat&logo=Xcode&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-0078d7?style=flat&logo=Visual-Studio-Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=flatt&logo=git&logoColor=white)
@@ -17,16 +18,17 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
-> 十年编程两茫茫，工期短，需求长。千行代码，Bug何处藏。纵使上线又如何，新版本，继续忙。黑白颠倒没商量，睡地铺，吃食堂。夜半梦醒，无人在身旁。最怕灯火阑珊时，手机响，心里慌。
+> 十年编程两茫茫，工期短，需求长。千行代码，Bug 何处藏。纵使上线又如何，新版本，继续忙。黑白颠倒没商量，睡地铺，吃食堂。夜半梦醒，无人在身旁。最怕灯火阑珊时，手机响，心里慌。
 
 <!-- Any image aligned to the right. Beware the width -->
 <img align='right'  alt="Github"  src='https://cdn.jsdelivr.net/gh/itzhangbao/itzhangbao.github.io@blog-images/picgo/Monkey_Kid_Coding.gif' >
 
 <!-- Talking about you -->
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Blogs](https://github.com/itzhangbao/blogs);
-- 🌱 I’m currently learning website and server; 
+- 🌱 I’m currently learning website and server;
 - 👯 I’m looking to collaborate on Look at the following👇;
 - 🤔 I’m looking for the help of money making techniques💰 ;
 - 💬 Ask me about anything to [issues](https://github.com/itzhangbao/itzhangbao/issues), I am happy to help;
@@ -35,7 +37,7 @@ You can use the website to generate badges: https://shields.io/
 
 **Other Links**
 
-
+<!-- 学习分享平台 -->
 <p>
   <!--CSDN-->
   <a href="https://blog.csdn.net/zhangbao_csdn">
@@ -73,23 +75,24 @@ You can use the website to generate badges: https://shields.io/
   <br />
   <!--Facebook-->
   <a href="https://www.facebook.com/itzhangbao">
-    <code><img alt="Facebook" width="10%" src="Facebook"></code>
+    <code><img alt="Facebook" width="10%" src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3529772561,2966971272&fm=26&gp=0.jpg"></code>
   </a>
   <!--Codepen-->
   <a href="https://codepen.io/itzhangbao">
-    <code><img alt="Codepen" width="10%" src="Codepen"></code>
+    <code><img alt="Codepen" width="10%" src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=9294283,2153108762&fm=15&gp=0.jpg"></code>
   </a>
   <!--Twitter-->
   <a href="https://twitter.com/itzhangbao">
-    <code><img alt="Twitter" width="10%" src="Twitter"></code>
+    <code><img alt="Twitter" width="10%" src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2092491138,3309768707&fm=26&gp=0.jpg"></code>
   </a>
   <!--LinkedIn-->
   <a href="https://www.linkedin.com/in/itzhangbao/">
-    <code><img alt="LinkedIn" width="10%" src="LinkedIn"></code>
+    <code><img alt="LinkedIn" width="10%" src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3009405954,4233011115&fm=26&gp=0.jpg"></code>
   </a>
 </p>
 
 **My GitHub Stats**
+
 <!-- Your Readme Stats
 site: https://github.com/anuraghazra/github-readme-stats
 You can use the repository to generate stats:
