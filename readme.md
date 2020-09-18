@@ -5,6 +5,29 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
+
+&nbsp;
+
+> 十年编程两茫茫，工期短，需求长。千行代码，Bug何处藏。纵使上线又如何，新版本，继续忙。黑白颠倒没商量，睡地铺，吃食堂。夜半梦醒，无人在身旁。最怕灯火阑珊时，手机响，心里慌。
+
+<!-- Any image aligned to the right. Beware the width -->
+<img align='right'  alt="Github"  src='https://cdn.jsdelivr.net/gh/itzhangbao/itzhangbao.github.io@blog-images/picgo/Monkey_Kid_Coding.gif' >
+
+
+<!-- Talking about you -->
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on [Blogs](https://github.com/itzhangbao/blogs);
+- 🌱 I’m currently learning website and server; 
+- 👯 I’m looking to collaborate on Look at the following👇;
+- 🤔 I’m looking for the help of money making techniques💰 ;
+- 💬 Ask me about anything to [issues](https://github.com/itzhangbao/itzhangbao/issues), I am happy to help;
+- ⚡️ Fun-Fact: my major is machine manufacture and automation;
+- 📫 How to reach me:[itzhangbao@163.com](mailto:itzhangbao@163.com) ;
+
+**Other Links**
+
+
 <p>
   <!--CSDN-->
   <a href="https://blog.csdn.net/zhangbao_csdn">
@@ -47,6 +70,7 @@ You can use the website to generate badges: https://shields.io/
   <a href="https://codepen.io/itzhangbao">
     <code><img alt="Codepen" width="10%" src="Codepen"></code>
   </a>
+  <br />
   <!--Twitter-->
   <a href="https://twitter.com/itzhangbao">
     <code><img alt="Twitter" width="10%" src="Twitter"></code>
@@ -56,31 +80,6 @@ You can use the website to generate badges: https://shields.io/
     <code><img alt="LinkedIn" width="10%" src="LinkedIn"></code>
   </a>
 </p>
-
-&nbsp;
-
-> 十年编程两茫茫，工期短，需求长。千行代码，Bug何处藏。纵使上线又如何，新版本，继续忙。黑白颠倒没商量，睡地铺，吃食堂。夜半梦醒，无人在身旁。最怕灯火阑珊时，手机响，心里慌。
-
-<!-- Any image aligned to the right. Beware the width -->
-<img align='right'  alt="Github"  src='https://cdn.jsdelivr.net/gh/itzhangbao/itzhangbao.github.io@blog-images/picgo/Monkey_Kid_Coding.gif' >
-
-
-<!-- Talking about you -->
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on [Blogs](https://github.com/itzhangbao/blogs);
-- 🌱 I’m currently learning website and server; 
-- 👯 I’m looking to collaborate on Look at the following👇;
-- 🤔 I’m looking for the help of money making techniques💰 ;
-- 💬 Ask me about anything to [issues](https://github.com/itzhangbao/itzhangbao/issues), I am happy to help;
-- ⚡️ Fun-Fact: my major is machine manufacture and automation;
-- 📫 How to reach me:[itzhangbao@163.com](mailto:itzhangbao@163.com) ;
-
-**Other**
-
-- 
-- 
--
 
 **My GitHub Stats**
 <!-- Your Readme Stats
