@@ -5,11 +5,57 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
+<p>
+  <!--CSDN-->
+  <a href="https://blog.csdn.net/zhangbao_csdn">
+    <code><img alt="掘金" width="10%" src="https://csdnimg.cn/cdn/content-toolbar/csdn-logo.png?v=20200416.1"></code>
+  </a>
+  <!--博客园-->
+  <a href="https://cnblogs.com/itzhangbao">
+    <code><img alt="掘金" width="10%" src="https://www.cnblogs.com/images/logo.svg"></code>
+  </a>
+  <!--简书-->
+  <a href="https://www.jianshu.com/u/dad8a468997b">
+    <code><img alt="简书" width="10%" src="https://cdn2.jianshu.io/assets/web/nav-logo-4c7bbafe27adc892f3046e6978459bac.png"></code>
+  </a>
+  <!--掘金-->
+  <a href="https://juejin.im/user/1591748568823677">
+    <code><img alt="掘金" width="10%" src="https://s3.pstatp.com/toutiao/xitu_juejin_web/img/logo.a7995ad.svg"></code>
+  </a>
+  <!--知乎-->
+  <a href="https://www.zhihu.com/people/itzhangbao">
+    <code><img alt="知乎" width="10%" src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2277366748,2909418798&fm=26&gp=0.jpg"></code>
+  </a>
+  <!--语雀-->
+  <a href="https://www.yuque.com/itzhangbao">
+    <code><img alt="语雀" width="10%" src="https://gw.alipayobjects.com/mdn/prod_resou/afts/img/A*OwZWQ68zSTMAAAAAAAAAAABkARQnAQ"></code>
+  </a>
+  <br />
+  <!--GitHub-->
+  <a href="https://github.com/itzhangbao">
+    <code><img alt="GitHub" width="10%" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png"></code>
+  </a>
+  <!--Medium-->
+  <a href="https://medium.com/@itzhangbao">
+    <code><img alt="Medium" width="10%" src="http://imgs.logonews.cn/uploads/2017/08/2017082412003535.png!logonews"></code>
+  </a>
+  <!--Facebook-->
+  <a href="https://www.facebook.com/itzhangbao">
+    <code><img alt="Facebook" width="10%" src="Facebook"></code>
+  </a>
+  <!--Codepen-->
+  <a href="https://codepen.io/itzhangbao">
+    <code><img alt="Codepen" width="10%" src="Codepen"></code>
+  </a>
+  <!--Twitter-->
+  <a href="https://twitter.com/itzhangbao">
+    <code><img alt="Twitter" width="10%" src="Twitter"></code>
+  </a>
+  <!--LinkedIn-->
+  <a href="https://www.linkedin.com/in/itzhangbao/">
+    <code><img alt="LinkedIn" width="10%" src="LinkedIn"></code>
+  </a>
+</p>
 
 &nbsp;
 
