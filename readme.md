@@ -1,13 +1,9 @@
 <!-- Your title -->
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi, I'm Jumbo, a Developer 🚀 from 深圳.</h1>
-
-<iframe scrolling="no" src="https://tianqiapi.com/api.php?style=yd&skin=durian" frameborder="0" width="100%" height="30" allowtransparency="true"></iframe>
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github&logoColor=white)
 ![GithubActions](https://img.shields.io/badge/-GithubActions-2088ff?style=flat&logo=Github-Actions&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-0070c9?style=flat&logo=Xcode&logoColor=white)
@@ -46,7 +42,6 @@ You can use the website to generate badges: https://shields.io/
 <img align='right'  alt="Github"  src='https://cdn.jsdelivr.net/gh/itzhangbao/supplies/img/Monkey_Kid_Coding.gif' >
 
 <!-- Talking about you -->
-
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Blogs](https://github.com/itzhangbao/blogs);
