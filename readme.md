@@ -132,3 +132,5 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/itzhagnbao/itzhangbao.svg" />
 </p>
 
+<!--希望收到您的 Star，thanks 🌹 -->
+<a href="https://github.com/itzhangbao/itzhangbao/readme.md">this readme by jumbo</a>
