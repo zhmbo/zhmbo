@@ -133,4 +133,4 @@ Both apis are in trouble due to the number of requests, if you know any other to
 </p>
 
 <!--希望收到您的 Star，thanks 🌹 -->
-<p align="right">this readme by <a align="right" href="https://github.com/itzhangbao/itzhangbao/readme.md">jumbo</a></p>
+<p align="right">this readme by <a align="right" href="https://github.com/itzhangbao/itzhangbao">jumbo</a></p>
