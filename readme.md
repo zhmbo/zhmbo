@@ -50,7 +50,7 @@ You can use the website to generate badges: https://shields.io/
 - 🤔 I’m looking for the help of money making techniques💰 ;
 - 💬 Ask me about anything to [issues](https://github.com/itzhangbao/itzhangbao/issues), I am happy to help;
 - ⚡️ Fun-Fact: my major is machine manufacture and automation;
-- 📫 How to reach me:[hi@itzhangbao.ml](mailto:hi@itzhangbao.ml) ;
+- 📫 How to reach me:[hi@itzhangbao.ml](mailto:hi@itzhangbao.com) ;
 
 **Other Links**
 
