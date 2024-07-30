@@ -36,7 +36,7 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
-> 十年编程两茫茫，工期短，需求长。千行代码，Bug 何处藏。纵使上线又如何，新版本，继续忙。黑白颠倒没商量，睡地铺，吃食堂。夜半梦醒，无人在身旁。最怕灯火阑珊时，手机响，心里慌。
+> 无他！唯手熟尔
 
 <!-- Any image aligned to the right. Beware the width -->
 <img align='right'  alt="Github"  src='https://cdn.jsdelivr.net/gh/itzhangbao/supplies/img/Monkey_Kid_Coding.gif' >
